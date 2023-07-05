@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://dserobabin.github.io/rsschool-cv/cv
+https://dserobabin.github.io/rsschool-cv/
